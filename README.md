@@ -1,7 +1,7 @@
 # Tumor Detection
 A Brain tumor is considered as one of the aggressive diseases, among children and adults. Brain tumors account for 85 to 90 percent of all primary Central Nervous System(CNS) tumors. Every year, around 11,700 people are diagnosed with a brain tumor. The best technique to detect brain tumors is Magnetic Resonance Imaging (MRI). A huge amount of image data is generated through the scans. These images are examined by the radiologist, which is a manual process.
 
-Our primary objective is to develop an accurate and efficient deep learning algorithm that can analyze medical images and rapidly predict the presence of tumors. By leveraging the power of convolutional neural networks (CNNs), our approach aims to automate and expedite the detection process, leading to faster diagnoses and improved patient outcomes.\
+Our primary objective is to develop an accurate and efficient deep learning algorithm that can analyze medical images and rapidly predict the presence of tumors. By leveraging the power of convolutional neural networks (CNNs), our approach aims to automate and expedite the detection process, leading to faster diagnoses and improved patient outcomes.
 
 ## Table of Contents
 * General Info
